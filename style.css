@@ -1,0 +1,104 @@
+h1{
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+}
+body{
+    background-color: orangered;
+}
+
+
+section{
+    display: flex;
+    gap: 20px;
+}
+
+.test1{
+    display: flex;
+    background-color: white;
+    margin: 60px;
+    padding: 20px;
+    border: 1px solod white;
+    border-radius: 30px;
+}
+
+
+.test1 img{
+    width: 100px;
+    height: 150px;
+}
+
+.test1 p{
+    padding-left: 20px;
+}
+
+.test1 h3{
+    padding-left: 20px;
+}
+
+.test2{
+    display: flex;
+    background-color: white;
+    margin: 60px;
+    padding: 20px;
+    border: 1px solod white;
+    border-radius: 30px;
+}
+
+.test2 img{
+    width: 150px;
+    height: 150px;
+}
+
+.test2 p{
+    padding-left: 20px;
+}
+
+.test2 h3{
+    padding-left: 20px;
+}
+
+.test3{
+    display: flex;
+    background-color: white;
+    margin: 60px;
+    padding: 20px;
+    border: 1px solod white;
+    border-radius: 30px;
+}
+
+.test3 img{
+    width: 150px;
+    height: 150px;
+}
+
+.test3 p{
+    padding-left: 20px;
+}
+
+.test3 h3{
+    padding-left: 20px;
+}
+
+.test4{
+    display: flex;
+    background-color: white;
+    margin: 60px;
+    padding: 20px;
+    border: 1px solod white;
+    border-radius: 30px;
+}
+
+
+.test4 img{
+    width: 150px;
+    height: 150px;
+}
+
+.test4 p{
+    padding-left: 20px;
+}
+
+.test4 h3{
+    padding-left: 20px;
+}
